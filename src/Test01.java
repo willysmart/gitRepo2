@@ -4,5 +4,6 @@ public class Test01 {
         System.out.println("branch01");
         System.out.println("master");
         System.out.println("add 1");
+        System.out.println("add 1 to master");
     }
 }
